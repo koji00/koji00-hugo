@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://koji00.github.io/"
+baseurl                 = "https://ngô.vn/"
 DefaultContentLanguage  = "en"
 title                   = "koji00 - NCMinh"
 theme                   = "hugo-future-imperfect-slim"
